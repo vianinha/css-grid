@@ -2,4 +2,4 @@
 
 ## An exercise to pratice CSS Grid concepts.
 
- [Grid Gardem](https://cssgridgarden.com)
+ [Grid Garden](https://cssgridgarden.com)
