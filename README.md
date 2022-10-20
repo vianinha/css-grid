@@ -1,5 +1,5 @@
 # Css Grid Exercise
 
-## An exercise to pratice Css Grid concepts.
+## An exercise to pratice CSS Grid concepts.
 
- [Site](https://cssgridgarden.com)
+ [Grid Gardem](https://cssgridgarden.com)
